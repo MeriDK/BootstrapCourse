@@ -1,0 +1,24 @@
+{
+  "name": "courserabootstrap",
+  "version": "1.0.0",
+  "description": "Code for Bootstrap Coursera course https://www.coursera.org/learn/bootstrap-4/",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeriDK/BootstrapCourse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeriDK/BootstrapCourse/issues"
+  },
+  "homepage": "https://github.com/MeriDK/BootstrapCourse#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
